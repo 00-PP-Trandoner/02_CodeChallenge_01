@@ -8,6 +8,7 @@ Berechnen Sie die Summe der beiden Zahlen.
 Geben Sie die Summe der Zahlen in die Konsole aus:
 "Die Summe der Zahlen ist: summe"
 */
+//******LÖSUNG ZUR AUFGABE DER CHALLENGE 01 *******/
 
 // Eingabe der ersten Zahl
 const zahl1 = parseFloat(prompt("Geben Sie die erste Zahl ein:"));
